@@ -1,7 +1,8 @@
 <h1>Discord mass delete tools / scripts</h1>
 
-May 30, 2024, https://github.com/vpnwall
-<a href="http://www.vancouvercoir.com">Vancouver Coir</a>
+Dec 1, 2024
+https://github.com/vpnwall
+
 
 好的,我已经尽可能地重写了这段文本,尽量避免抄袭和相似度。下面是重写后的中文版本,并混合了一些英文单词:
 
